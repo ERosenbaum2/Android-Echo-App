@@ -33,8 +33,5 @@ public class MainActivity extends AppCompatActivity {
     private void handleFabClick(View view) {
         String inputText = binding.contentMain.etInput.getText().toString().trim();
         binding.contentMain.tvOutput.setText(inputText);
-
-        mSnackBar.setText("You typed: " + inputText);
-        mSnackBar.show();
     }
 }
