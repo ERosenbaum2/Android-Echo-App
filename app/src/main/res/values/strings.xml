@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Echo App</string>
+
+    <string name="hint_edit_text">Type here</string>
+
+    <string name="helper_edit_text">Your message</string>
+
+    <string name="echo_button_text">Echo...</string>
+</resources>
